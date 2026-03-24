@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:ayshishannidhya@gmail.com"><img src="https://img.shields.io/badge/Email-ayshishannidhya%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/ayshishannidhyapanda"><img src="https://img.shields.io/badge/LinkedIn-Ayshi Shannidhya Panda-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/ayshishannidhya"><img src="https://img.shields.io/badge/LinkedIn-Ayshi Shannidhya Panda-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -156,10 +156,10 @@ Silicon Institute of Technology, Sambalpur
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto: ayshishannidhya@gmail. com">
+  <a href="mailto: ayshishannidhya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/ayshi-shannidhya-panda">
+  <a href="https://linkedin.com/in/ayshishannidhya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.ayshishannidhya.online">
@@ -174,5 +174,5 @@ Silicon Institute of Technology, Sambalpur
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/ayshishannidhyapanda">Ayshi Shannidhya Panda</a>
+  ⭐️ From <a href="https://github.com/ayshishannidhya">Ayshi Shannidhya Panda</a>
 </p>
